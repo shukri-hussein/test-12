@@ -1,0 +1,100 @@
+.con1 img{
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 30px;
+    position: relative;
+
+}
+
+.searchIcon img{
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.con2 img{
+    width: 270px;
+    height: 300px;
+    position: absolute;
+    top: 200px;
+    margin-left: 350px;
+    margin-top: -40px;
+    border-radius: 20px;
+    border: 4px white solid;
+}
+
+.con3 h4{
+    color: orange;
+    position: absolute;
+    margin-left: 700px;
+    top: 90px;
+}
+.con4 h1{
+    color: black;
+    position: absolute;
+    margin-left: 700px;
+    top: 120px;
+    width: 280px;
+}
+.con5 p {
+    color: gray;
+    position: absolute;
+    margin-left: 700px;
+    top: 210px;
+    width: 400px;
+}
+
+.con6 i{
+    position: absolute;
+    margin-left: 700px;
+    top: 300px;
+    font-size: 2.5em;
+}
+.con7 i{
+    position: absolute;
+    margin-left: 695px;
+    top: 370px;
+    font-size: 2.5em;
+}
+.con8 i{
+    position: absolute;
+    margin-left: 700px;
+    top: 440px;
+    font-size: 2.5em;
+}
+.con9 h2 {
+    position: absolute;
+    margin-left: 745px;
+    top: 275px;
+}
+.con9 p{
+    position: absolute;
+    margin-left: 750px;
+    top: 305px;
+    color: gray;
+}
+
+.con10 h2 {
+    position: absolute;
+    margin-left: 750px;
+    top: 345px;
+}
+.con10 p{
+    position: absolute;
+    margin-left: 750px;
+    top: 378px;
+    color: gray;
+}
+.con11 h2 {
+    position: absolute;
+    margin-left: 750px;
+    top: 420px;
+}
+.con11 p{
+    position: absolute;
+    margin-left: 750px;
+    top: 450px;
+    color: gray;
+}
